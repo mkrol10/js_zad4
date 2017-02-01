@@ -8,7 +8,7 @@ if (value < 0) {
     console.log('Wynik jest ujemny')
 } else if (value > 0) {
     console.log('Wynik jest dodatni')
-} else if (value == 0) {
+} else if (value === 0) {
     console.log('Liczba rowna sie zero')
 } else {
     console.log('Cos poszlo nie tak')
